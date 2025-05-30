@@ -1,0 +1,140 @@
+nl.mnre1010.2e-b.2024.1.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1010.2e-b.2024.3.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1010.2e-b.2024.24.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          1
+    2 |      2 |          0
+    3 |      2 |          0
+    4 |      1 |          0
+
+nl.mnre1010.2e-b.2024.26.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      5 |          3
+    2 |      5 |          3
+    3 |      6 |          2
+    4 |      2 |          1
+
+nl.mnre1010.2e-b.2024.45.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      0 |          2
+    2 |      0 |          2
+    3 |      0 |          2
+    4 |      0 |          1
+
+nl.mnre1010.2e-b.2024.47.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1018.2e-b.2024.60.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      5 |          1
+    2 |     10 |          2
+    3 |     12 |          2
+    4 |     14 |          0
+
+nl.mnre1034.2e-b.2024.14.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      7 |          1
+    2 |     10 |          1
+    3 |     12 |          2
+    4 |      2 |          1
+
+nl.mnre1034.2e-b.2024.16.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      3 |          1
+    2 |      5 |          2
+    3 |     11 |          3
+    4 |      5 |          1
+
+nl.mnre1034.2e-b.2024.51.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      7 |          5
+    2 |     10 |          2
+    3 |     13 |          3
+    4 |      8 |          1
+
+nl.mnre1010.2e-b.2024.1.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1010.2e-b.2024.3.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1010.2e-b.2024.24.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          1
+    2 |      2 |          0
+    3 |      2 |          0
+    4 |      1 |          0
+
+nl.mnre1010.2e-b.2024.26.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      5 |          3
+    2 |      5 |          3
+    3 |      6 |          2
+    4 |      2 |          1
+
+nl.mnre1010.2e-b.2024.45.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      0 |          2
+    2 |      0 |          2
+    3 |      0 |          2
+    4 |      0 |          1
+
+nl.mnre1010.2e-b.2024.47.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      1 |          2
+    2 |      2 |          0
+    3 |      3 |          0
+    4 |      0 |          0
+
+nl.mnre1018.2e-b.2024.60.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      5 |          1
+    2 |     10 |          2
+    3 |     12 |          2
+    4 |     14 |          0
+
+nl.mnre1034.2e-b.2024.14.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      7 |          1
+    2 |     10 |          1
+    3 |     12 |          2
+    4 |      2 |          1
+
+nl.mnre1034.2e-b.2024.16.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      3 |          1
+    2 |      5 |          2
+    3 |     11 |          3
+    4 |      5 |          1
+
+nl.mnre1034.2e-b.2024.51.doc.1_0.pdf
+COUNT | BORDER | NON_BORDER
+    1 |      7 |          5
+    2 |     10 |          2
+    3 |     13 |          3
+    4 |      8 |          1
+
