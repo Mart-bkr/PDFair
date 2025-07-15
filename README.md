@@ -6,7 +6,7 @@ This project provides tools to convert WOO PDF documents into structured Markdow
 
 Installation instructions can be found in:
 
-- [installation.md](./installation.md) — step-by-step setup guide  
+- [installation.md](./Installation.md) — step-by-step setup guide  
 - [`environment.yml`](./environment.yml) — for setting up a conda environment
 
 ## Project Structure
