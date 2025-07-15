@@ -22,26 +22,5 @@ dependencies:
     - filelock==3.13.1
     - huggingface-hub==0.19.4
     - charset-normalizer==3.4.1
-    
-# matplotlib
-# markdown
-# pdf2image
-
-# --- MANUAL INSTALL ---
-# $ conda activate PDFair
-
-# $ pip install rlextra==4.0.8 -i https://www.reportlab.com/pypi
-
-# $ sudo apt install tesseract-ocr
-# $ sudo apt install libtesseract-dev
-# $ sudo apt install tesseract-ocr-nld
-
-# $ sudo apt-get install poppler-utils
-
-# $ python -m spacy download nl_core_news_sm
-
-# --- CONDA COMMANDS ---
-# $ conda env create --name PDFair --file=environment.yml
-# $ conda env update --name PDFair --file environment.yml 
-
-
+    - markdown==3.8
+    - pdf2image==1.17.0
